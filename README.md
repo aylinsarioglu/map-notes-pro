@@ -1,5 +1,8 @@
-#Map-notes-projesi
+# Map-notes-projesi
 
-#Kullanılan Teknolojiler
+
+# Kullanılan Teknolojiler
+
+
 HTML,CSS,JS
 
