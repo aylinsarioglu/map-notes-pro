@@ -1,2 +1,5 @@
-# map-notes-pro
-# map-notes-pro
+#Map-notes-projesi
+
+#Kullanılan Teknolojiler
+HTML,CSS,JS
+
